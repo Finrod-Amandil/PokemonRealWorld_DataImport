@@ -12,7 +12,7 @@ import ch.tbz.wup.services.WGS84ToLV03Converter;
 
 public class DataImportStarter {
 	public static void main(String args[]) {
-		load();
+		save();
 	}
 	
 	private static void save() {
